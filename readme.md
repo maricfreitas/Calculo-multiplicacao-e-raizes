@@ -1,0 +1,1 @@
+Programa que, a partir de um numero dado pelo usuario e imprime: seu dobro, triplo, raiz quadrada, raiz cubica e raiz setima elevada a 4.
